@@ -1,0 +1,15 @@
+/* PUT FLUID GRID CODE HERE */
+.column-1-5 {
+    width: 20%;
+    padding-right: 10px;
+    /* margin-right: 15px; */
+    box-sizing: border-box;
+    float:left;
+}
+
+.column-4-5 {
+    width: 80%;
+    box-sizing: border-box;
+    float:right;
+    vertical-align: top;
+}
